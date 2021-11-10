@@ -1,8 +1,11 @@
-###Hi there 👋
+Hi there 👋
 I'm Richard Danquah from Ghana, and I am a hands on Software Engineer. I love building mobile,web and backend services and enjoy discussing new product ideas.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richarddanquah)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richarddanquah&count_private=true&show_icons=true&theme=radical)
+
+
 
 
 <!--
