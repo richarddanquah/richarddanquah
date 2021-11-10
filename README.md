@@ -7,10 +7,7 @@ I'm Richard Danquah from Ghana, and I am a hands on Software Engineer.  I love b
 - 💬 Ask me anything about Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
 - 📫 Email me at: danquahrich125@gmail.com
 
-<a href="https://github.com/richarddanquah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.medium_clone.app/api/pin/?username=richarddanquah&repo=github-readme-stats" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddanquah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richarddanquah&count_private=true&show_icons=true&theme=radical)
