@@ -8,7 +8,7 @@ I'm Richard Danquah from Ghana, and I am a hands on Software Engineer.  I love b
 - 📫 Email me at: danquahrich125@gmail.com
 
 <a href="https://github.com/richarddanquah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richarddanquah&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.medium_clone.app/api/pin/?username=richarddanquah&repo=github-readme-stats" />
 </a>
 
 
