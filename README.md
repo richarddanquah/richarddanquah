@@ -1,5 +1,11 @@
-Hi there 👋
-I'm Richard Danquah from Ghana, and I am a hands on Software Engineer. I love building mobile,web and backend services and enjoy discussing new product ideas.
+Hi there 👋, 
+I'm Richard Danquah from Ghana, and I am a hands on Software Engineer.  I love building mobile, web and backend services and enjoy discussing new product ideas.
+
+
+
+- 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix
+- 💬 Ask me anything about Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
+- 📫 Email me at: danquahrich125@gmail.com
 
 
 
