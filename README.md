@@ -3,7 +3,7 @@ I'm Richard Danquah from Ghana, and I am a hands on Software Engineer.  I love b
 
 
 
-- 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix
+- 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix and Python,Data Science, ML.
 - 💬 Ask me anything about Node Js, React JS, Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
 - 📫 Email me at: danquahrich125@gmail.com
 
