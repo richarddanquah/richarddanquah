@@ -1,5 +1,5 @@
 Hi there 👋, 
-I'm Richard Danquah from Ghana, and I am a hands on Software Engineer.  I love building mobile, web and backend services and enjoy discussing new product ideas.
+I'm Richard Danquah from Ghana, and I am a hands on FullStack Software Engineer.  I love building mobile, web and backend services and enjoy discussing new product ideas.
 
 
 
