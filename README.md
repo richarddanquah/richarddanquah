@@ -1,5 +1,5 @@
 Hi there 👋, 
-I'm Richard Danquah from Ghana based in Germany, and I am a hands on FullStack Software Engineer.  I love building robust API or Microservices,AI apps, Mobile, Web and enjoy discussing new product ideas.
+I'm Richard Danquah from Ghana based in Germany, and I am a hands on FullStack Software Engineer.  I love building robust API or Microservices,AI apps, Mobile, Web and Embedded softwares enjoy discussing new product ideas.
 
 
 
