@@ -1,10 +1,10 @@
 Hi there 👋, 
-I'm Richard Danquah from Ghana, and I am a hands on FullStack Software Engineer.  I love building mobile, web and backend services and enjoy discussing new product ideas.
+I'm Richard Danquah from Ghana based in Germany, and I am a hands on FullStack Software Engineer.  I love building robust API or Microservices,AI apps, Mobile, Web and enjoy discussing new product ideas.
 
 
 
 - 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix and Python,Data Science, ML.
-- 💬 Ask me anything about Node Js, React JS,Vue JS Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
+- 💬 Ask me anything about Python, Node Js, React JS,Vue JS Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
 - 📫 Email me at: danquahrich125@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richarddanquah&count_private=true&show_icons=true&theme=radical)
