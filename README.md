@@ -3,7 +3,7 @@ I'm Richard Danquah from Ghana based in Germany, and I am a hands on FullStack S
 
 
 
-- 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix and Python,Data Science, ML.
+- 🌱 I’m currently learning more about Functional Programming like Elixir/Phoenix and Python,Data Science, ML,DevOps and DevSecOps.
 - 💬 Ask me anything about Python, Node Js, React JS,Vue JS Ruby on Rails, Flutter, Elixir/Phoenix,Laravel, Payment Integration.
 - 📫 Email me at: danquahrich125@gmail.com
 
